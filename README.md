@@ -1,16 +1,13 @@
-### Hi there 👋
+Eu sou Professor Marcio Antonio Lopes 💙
 
-<!--
-**ProfessorMarcio/ProfessorMarcio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou lecionando no [Colégio Estadual Santos Dumont[(https://professormarcio.github.io/Site-Santos-Dumont/)
 
-Here are some ideas to get you started:
+Meu e-mail é marcio.antonio.lopes@escola.pr.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Leciono disciplinas de:
+- Pensamento Computacional ou Computational Thinking;
+- Matemática II / Programação ou Schedule;
+- Robótica ou Robotics.
+
+
+![](https://media.tenor.com/c3RROqjyFSsAAAAC/professor-entry-professor.gif)
