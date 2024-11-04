@@ -6,6 +6,8 @@ Meu e-mail é marcio.antonio.lopes@escola.pr.gov.br
 
 Meu [currículo Lattes](https://lattes.cnpq.br/8704114599998664)
 
+Meu [Linkedin](www.linkedin.com/in/marcio-lopes-29878421)
+
 Leciono disciplinas de:
 - Pensamento Computacional;
 - Programação;
