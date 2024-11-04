@@ -1,6 +1,6 @@
 Eu sou Professor Marcio Antonio Lopes 💙
 
-Estou lecionando no [Colégio Estadual Alberto Santos Dumont](https://santosdumont.my.canva.site/home)
+Leciono no [Colégio Estadual Alberto Santos Dumont](https://santosdumont.my.canva.site/home)
 
 Meu e-mail é marcio.antonio.lopes@escola.pr.gov.br
 
