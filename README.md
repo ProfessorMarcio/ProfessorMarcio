@@ -3,6 +3,7 @@ Eu sou Professor Marcio Antonio Lopes 💙
 Estou lecionando no [Colégio Estadual Santos Dumont](https://professormarcio.github.io/Site-Santos-Dumont/)
 
 Meu e-mail é marcio.antonio.lopes@escola.pr.gov.br
+
 Meu [currículo Lattes](https://lattes.cnpq.br/8704114599998664)
 
 Leciono disciplinas de:
