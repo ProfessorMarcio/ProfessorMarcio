@@ -14,6 +14,8 @@ Leciono disciplinas de:
 - Robótica.
 - Matemática
 
+Sou graduado em Economia com formação pedagógica em Matemática e Física. Possuo especialização em Marketing, Desenvolvimento Sustentável, Robótica Educacional e Programação de Aplicações Móveis. Possuo também especialização em Perícia Financeira (Perícia Contábil, Riscos e Estratégias).
+
 ![](https://media.tenor.com/c3RROqjyFSsAAAAC/professor-entry-professor.gif)
 
 Inteligência Artificial:
