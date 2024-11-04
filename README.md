@@ -5,10 +5,10 @@ Estou lecionando no [Colégio Estadual Santos Dumont](https://professormarcio.gi
 Meu e-mail é marcio.antonio.lopes@escola.pr.gov.br
 
 Leciono disciplinas de:
-- Pensamento Computacional ou Computational Thinking;
-- Matemática II / Programação ou Schedule;
-- Robótica ou Robotics.
-
+- Pensamento Computacional;
+- Programação;
+- Robótica.
+- Matemática
 
 ![](https://media.tenor.com/c3RROqjyFSsAAAAC/professor-entry-professor.gif)
 
