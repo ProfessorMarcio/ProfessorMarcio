@@ -11,8 +11,8 @@ Meu [Linkedin](www.linkedin.com/in/marcio-lopes-29878421)
 Leciono disciplinas de:
 - Pensamento Computacional;
 - Programação;
-- Robótica.
-- Matemática
+- Robótica;
+- Matemática.
 
 Sou graduado em Economia com formação pedagógica em Matemática e Física. Possuo especialização em Marketing, Desenvolvimento Sustentável, Robótica Educacional e Programação de Aplicações Móveis. Possuo também especialização em Perícia Financeira (Perícia Contábil, Riscos e Estratégias).
 
