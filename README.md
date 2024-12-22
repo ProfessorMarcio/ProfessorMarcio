@@ -8,7 +8,7 @@ Meu [currículo Lattes](https://lattes.cnpq.br/8704114599998664)
 
 Meu [Linkedin](www.linkedin.com/in/marcio-lopes-29878421)
 
-Meu [Blog](https://www.blogger.com/blog/post/edit/preview/7915027288042307657/4943287510939915000)
+Meu [Blog](https://profmarcio25.blogspot.com/)
 
 Leciono disciplinas de:
 - Pensamento Computacional;
